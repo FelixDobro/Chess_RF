@@ -1,0 +1,8 @@
+*.pkl
+*.svg
+*.png
+
+stockfishstockfish
+stockfish.exe
+stockfish*
+data
